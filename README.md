@@ -10,6 +10,6 @@ The intention is to use it as a way to order food at mcdonalds.
  If you want to try it out, just run the chatbot.py
  There are also 2 jupyter notbooks to setup the model
  
-# # sources used
+# Sources used
  
  https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
