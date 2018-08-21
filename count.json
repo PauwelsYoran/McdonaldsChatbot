@@ -1,0 +1,32 @@
+{"intents": [
+        {"tag": "1",
+         "patterns": ["1", "one","a"],
+         "count":"1"
+        },
+        {"tag": "2",
+         "patterns": ["2", "two"],
+         "count":"2"
+        },
+        {"tag": "3",
+         "patterns": ["3", "three"],
+         "count":"3"
+        },
+        {"tag": "4",
+         "patterns": ["4", "four"],
+         "count":"4"
+        },
+        {"tag": "5",
+         "patterns": ["5", "five"],
+         "count":"5"
+        },
+        {"tag": "6",
+         "patterns": ["6", "six"],
+         "count":"6"
+        },
+        {"tag": "7",
+         "patterns": ["7", "seven"],
+         "count":"7"
+        }
+        
+   ]
+}
